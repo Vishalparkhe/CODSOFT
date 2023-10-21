@@ -1,4 +1,4 @@
-package studentmenegamantsystem;
+package studentmangmentsystem;
 
 import java.util.ArrayList;
 import java.util.Scanner;
